@@ -1,5 +1,4 @@
-Hi im Rikari
-I own TWTB
-Cool right?
+TWTB Developer
 
-I'm a pro Linus Torvalds fan!
+Open source lover
+Tetris player probably
