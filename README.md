@@ -1,4 +1,1 @@
-TWTB Developer
-
-Open source lover
-Tetris player probably
+strings in c are the best
